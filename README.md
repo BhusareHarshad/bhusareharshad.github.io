@@ -22,7 +22,7 @@
   
   <section id="home">
     <h1>Gand Maara</h1>
-    <img src="![dancing](https://user-images.githubusercontent.com/96343230/214790110-aada1c57-112b-4c16-953e-37fe3c65a75d.gif)" alt="Dancing Cartoon">
+    <img src="dancing_cartoon.gif" alt="Dancing Cartoon">
   </section>
   
   
