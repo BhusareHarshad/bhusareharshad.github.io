@@ -19,15 +19,7 @@
     <h1>Welcome to My Website</h1>
     <p>This is the home section of my website.</p>
   </section>
-  
-  <section id="home">
-    <h1>Gand Maara</h1>
-    <img src="dancing_cartoon.gif" alt="Dancing Cartoon">
-  </section>
-  
-  ![dancing](https://user-images.githubusercontent.com/96343230/214791303-42f3e81c-b68e-409b-adc1-a3f89be83d21.gif)
-
-
+    
 
   <section id="about" class="hidden">
     <h2>About Us</h2>
