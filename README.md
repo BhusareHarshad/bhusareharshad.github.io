@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</title>
+  <title>Harshad Bhusare</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -19,6 +19,13 @@
     <h1>Welcome to My Website</h1>
     <p>This is the home section of my website.</p>
   </section>
+  
+  <section id="home">
+    <h1>Welcome to My Website</h1>
+    <p>This is the home section of my website.</p>
+    <p> Gand Maara</p>
+  </section>
+
 
   <section id="about" class="hidden">
     <h2>About Us</h2>
