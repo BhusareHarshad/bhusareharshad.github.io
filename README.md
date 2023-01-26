@@ -25,7 +25,8 @@
     <img src="dancing_cartoon.gif" alt="Dancing Cartoon">
   </section>
   
-  
+  ![dancing](https://user-images.githubusercontent.com/96343230/214791303-42f3e81c-b68e-409b-adc1-a3f89be83d21.gif)
+
 
 
   <section id="about" class="hidden">
