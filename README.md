@@ -21,10 +21,11 @@
   </section>
   
   <section id="home">
-    <h1>Welcome to My Website</h1>
-    <p>This is the home section of my website.</p>
-    <p> Gand Maara</p>
+    <h1>Gand Maara</h1>
+    <img src="![dancing](https://user-images.githubusercontent.com/96343230/214790110-aada1c57-112b-4c16-953e-37fe3c65a75d.gif)" alt="Dancing Cartoon">
   </section>
+  
+  
 
 
   <section id="about" class="hidden">
